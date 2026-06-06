@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: researches user needs and delivers implementation-ready design artefacts.
+- DevOps Engineer: owns CI/CD pipelines, infrastructure, and release operations.
+- Business Analyst (BA): structures requirements and bridges stakeholders to the delivery team.
+- Customer Support Lead: surfaces customer feedback and ensures support readiness for releases.
+
+See `octoacme-roles-and-personas.md` for full role definitions and `octoacme-raci-and-handoffs.md` for cross-role ownership across lifecycle phases.
 
 ## Key Artifacts
 - Project Charter / One-pager
