@@ -20,5 +20,6 @@ Quality assurance is integrated into daily execution, not deferred to the end of
 - [OctoAcme — Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme — Cross-Role Responsibility Matrix & Handoff Guide](./octoacme-raci-and-handoffs.md)
 
 Future process documents should be added to this index to keep this README as the authoritative entry point for project management documentation.
